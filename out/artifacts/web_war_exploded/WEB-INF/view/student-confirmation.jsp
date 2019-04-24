@@ -9,7 +9,7 @@
 </head>
 <body>
 
-<p>The student is confirmed: ${student.firstName} ${student.lastName} from country ${student.country}</p>
-
+<p>The student is confirmed: ${student.firstName} ${student.lastName} from country code: ${student.country}</p>
+<p>Their favourite language is ${student.favLanguage}</p>
 </body>
 </html>
