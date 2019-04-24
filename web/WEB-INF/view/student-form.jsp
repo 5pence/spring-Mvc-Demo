@@ -6,7 +6,7 @@
 <%@ taglib prefix="form" uri="http://www.springframework.org/tags/form" %>
 <html>
 <head>
-    <title>Student Form</title>
+    <title>Student Registration Form</title>
 </head>
 <body>
     <form:form action="processForm" modelAttribute="student">
