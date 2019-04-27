@@ -29,6 +29,11 @@
 
     <br><br>
 
+    Post Code: <form:input path="postCode"/>
+    <form:errors path="postCode" cssClass="error"/>
+
+    <br><br>
+
     Free Passes: <form:input path="freePasses"/>
     <form:errors path="freePasses" cssClass="error"/>
 
