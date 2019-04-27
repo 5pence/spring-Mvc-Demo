@@ -1,5 +1,7 @@
 package com.spencer.springdemo.mvc;
 
+import org.springframework.web.bind.annotation.InitBinder;
+
 import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
 

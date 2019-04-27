@@ -9,6 +9,6 @@
     <br><br>
     <a href="student/showForm">Student Registration Form Form</a>
     <br><br>
-    <a href="customer/showForm">Student Registration Form Form</a>
+    <a href="customer/showForm">Customer Registration Form Form</a>
 </body>
 </html>
