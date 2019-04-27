@@ -7,7 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a15f9526-2992-4962-91cd-fd4be09272c0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/spencer/springdemo/mvc/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/spencer/springdemo/mvc/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resourses/messages.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,10 +21,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/spencer/springdemo/mvc/Customer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1125">
+            <state relative-caret-position="348">
               <caret line="45" column="37" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -45,6 +45,15 @@
                 <element signature="e#1219#1220#0" expanded="true" />
                 <element signature="e#1259#1260#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/resourses/messages.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="22" lean-forward="true" selection-start-column="22" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -120,6 +129,7 @@
         <option value="$PROJECT_DIR$/web/WEB-INF/view/customer-form.jsp" />
         <option value="$PROJECT_DIR$/web/WEB-INF/view/customer-confirmation.jsp" />
         <option value="$PROJECT_DIR$/src/com/spencer/springdemo/mvc/Customer.java" />
+        <option value="$PROJECT_DIR$/src/resourses/messages.properties" />
       </list>
     </option>
   </component>
@@ -204,6 +214,12 @@
               <item name="spencer" type="462c0819:PsiDirectoryNode" />
               <item name="springdemo" type="462c0819:PsiDirectoryNode" />
               <item name="mvc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-Mvc-Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-Mvc-Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="resourses" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-Mvc-Demo" type="b2602c69:ProjectViewProjectNode" />
@@ -345,18 +361,18 @@
       <option name="presentableId" value="Default" />
       <updated>1556045062279</updated>
       <workItem from="1556045065436" duration="7919000" />
-      <workItem from="1556064356741" duration="23328000" />
+      <workItem from="1556064356741" duration="23642000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31247000" />
+    <option name="totallyTimeSpent" value="31561000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1734" height="1407" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.20938627" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20938627" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -373,7 +389,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32967034" />
       <window_info anchor="bottom" id="Spring" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.33493206" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.33493206" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
@@ -606,7 +622,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/spencer/springdemo/mvc/Customer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1125">
+        <state relative-caret-position="348">
           <caret line="45" column="37" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -627,6 +643,13 @@
             <element signature="e#1219#1220#0" expanded="true" />
             <element signature="e#1259#1260#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resourses/messages.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" lean-forward="true" selection-start-column="22" selection-end-column="22" />
         </state>
       </provider>
     </entry>
